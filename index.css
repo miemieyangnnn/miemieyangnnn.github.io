@@ -234,3 +234,7 @@ footer a {
     margin: 0 auto;
     width: 45%;
 }
+
+.mr-left {
+    text-align: left;
+}
