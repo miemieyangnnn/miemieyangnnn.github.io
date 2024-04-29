@@ -18,6 +18,7 @@ body{
     height: 60px;
     width: 60px;
     margin: 0px 10px 0 100px;
+    object-fit: cover;
     border-radius: 50%;
 }
 
@@ -218,6 +219,11 @@ nav {
     /* height: 300px; */
 }
 
+.like-pic {
+    object-fit: cover;
+    width: 100%;
+}
+
 footer {
     margin: 20px;
 }
@@ -237,4 +243,5 @@ footer a {
 
 .mr-left {
     text-align: left;
+    padding: 20px;
 }
